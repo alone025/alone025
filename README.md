@@ -1,4 +1,4 @@
-# Hi 👋, I'm Odilov Oqil
+# Hi 👋, I'm Nizomiddin Nishonboyev
 
 ### An experienced Javascript developer
 
